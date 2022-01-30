@@ -1,2 +1,12 @@
 vue-app/.gitignore
 acceptance/.gitignore
+.idea/workspace.xml
+*.iml
+*.xml
+*.xml
+*.iml
+*.iml
+acceptance/.idea/workspace.xml
+acceptance/.idea/vcs.xml
+acceptance/.idea/modules.xml
+acceptance/.idea/codeStyles/codeStyleConfig.xml

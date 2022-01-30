@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4aca3f99-4228-4fd9-bf4f-e97e4788156a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/acceptance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/videosite.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/videosite.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/.env.test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/pact/logs/FrontEnd-Backend-mockserver-interaction.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/pact/pacts/frontend-backend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/components/Video.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/components/__tests__/Video.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/views/VideoListing.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/views/__tests__/Home.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/views/__tests__/VideoListing.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/src/views/__tests__/Watch.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue-app/tests/unit/pacts/videos.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/views/Watch.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/tests/unit/example.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vue-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../vue-app/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24NGYRDwPZDaoH4FTFb1bMOZbVo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs.cucumber.cucumber_node_package_dir" value="$PROJECT_DIR$/node_modules/cucumber" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber.js.videosite.feature">
+    <configuration name="Scenario: User should navigate to wat... (1)" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/videosite.feature" />
+      <option name="myNameFilter" value="^User should navigate to watch page on click to video$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: User should navigate to wat..." type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/videosite.feature" />
+      <option name="myNameFilter" value="^User should navigate to watch page on click to video$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: User should see some videos..." type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/videosite.feature" />
+      <option name="myNameFilter" value="User should see some videos on main page" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Scenario: User should see video image..." type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/videosite.feature" />
+      <option name="myNameFilter" value="^User should see video image change on hover$" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="videosite.feature" type="cucumber.js" factoryName="Cucumber.js" temporary="true">
+      <option name="myFilePath" value="$PROJECT_DIR$/features/videosite.feature" />
+      <option name="myNameFilter" />
+      <option name="cucumberJsArguments" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber.js.videosite.feature" />
+        <item itemvalue="Cucumber.js.Scenario: User should see video image..." />
+        <item itemvalue="Cucumber.js.Scenario: User should navigate to wat... (1)" />
+        <item itemvalue="Cucumber.js.Scenario: User should navigate to wat..." />
+        <item itemvalue="Cucumber.js.Scenario: User should see some videos..." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4aca3f99-4228-4fd9-bf4f-e97e4788156a" name="Default Changelist" comment="" />
+      <created>1643463678549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643463678549</updated>
+      <workItem from="1643463679739" duration="3058000" />
+      <workItem from="1643466937689" duration="34000" />
+      <workItem from="1643466990152" duration="125000" />
+      <workItem from="1643467176218" duration="558000" />
+      <workItem from="1643468705728" duration="36107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
